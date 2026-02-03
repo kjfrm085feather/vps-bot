@@ -1,0 +1,30 @@
+{
+  "token": "MTQ2NzMxMDQyNDg3Njc4MTY0Mg.G_zfnl.Kp78Sc_h7ka-b5xVsbG1eiCz3w-m-imlv2QRr",
+  "owner_id": "1383641747913183256",
+  "version": "0.1",
+  "thumbnail": "https://cdn.discordapp.com/attachments/1467306702742229100/1467308441017123122/54483db9-3607-464c-b6ec-806f20f6e7a1.png?ex=6981e339&is=698091b9&hm=f2be458bc218fff229f1105ae5614562566e9c3d8820d2c8c1176d417eca3931",
+  "log_channel_id": 1467922778706673695,
+  "purge_channel_id": null,
+  "welcome_channel_id": 1467306701932728419,
+  "member_role_id": 1467306701102518291,
+  "vps_user_role_id": 1467306701102518287,
+  "embed_colors": {
+    "primary": "#E67E22",
+    "orange": "#E67E22",
+    "green": "#2ecc71",
+    "purple": "#9b59b6"
+  }
+  ,
+  "paid_plans": {
+    "UL-1": {"cpu": 4, "ram": 50, "disk": 150, "monthly": 1.99, "lifetime": 5},
+    "UL-2": {"cpu": 6, "ram": 100, "disk": 250, "monthly": 4.99, "lifetime": 15},
+    "UL-3": {"cpu": 10, "ram": 250, "disk": 500, "monthly": 10.0, "lifetime": 20}
+  }
+  ,
+  "trial_credits": 10
+  ,
+  "docker": {
+    "enabled": true,
+    "image": "ubuntu:22.04"
+  }
+}
